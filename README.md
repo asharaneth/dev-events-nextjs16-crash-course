@@ -1,1 +1,0 @@
-# dev-events-nextjs16-crash-course
